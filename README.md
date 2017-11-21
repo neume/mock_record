@@ -29,7 +29,7 @@ end
 Assuming you have a polymorhic association
 ```ruby
 class Poly < ApplicationRecord
-	belongs_to :subject, polymorphic: true
+  belongs_to :subject, polymorphic: true
 end
 ```
 then you can now use our ```Square``` as a the subject of ```Poly```
