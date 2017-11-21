@@ -11,8 +11,8 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{"It imitates active record to be used in polymorphic association"}
   spec.description   = %q{"It is a minimal base class that acts like an ActiveRecord
-													without a matching database table. It has the basic
-													methods to support polymorhic association. Nothing special here:)"}
+													without a matching database table. It has basic
+													methods to support polymorhic association. Nothing special here :)"}
   # spec.homepage      = "Nothing Yet"
   spec.license       = "MIT"
 
