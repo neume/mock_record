@@ -1,6 +1,6 @@
 # MockRecord
 
-It is a minimal base class that acts like an ActiveRecord without a matching database table. It has basic methods to support polymorhic association. Nothing special here :)
+It is a minimal base class that acts like an ActiveRecord without a matching database table. It has basic methods to support polymorphic association. Nothing special here :)
 
 
 ## Installation

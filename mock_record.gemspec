@@ -9,11 +9,11 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Joseph Nelson Valeros"]
   spec.email         = ["valerosjoseph@gmail.com"]
 
-  spec.summary       = %q{"It imitates active record to be used in polymorphic association"}
-  spec.description   = %q{"It is a minimal base class that acts like an ActiveRecord
+  spec.summary       = %q{It imitates active record to be used in polymorphic association}
+  spec.description   = %q{It is a minimal base class that acts like an ActiveRecord
 													without a matching database table. It has basic
-													methods to support polymorhic association. Nothing special here :)"}
-  # spec.homepage      = "Nothing Yet"
+													methods to support polymorphic association. Nothing special here :)}
+  spec.homepage      = "https://github.com/neume/mock_record"
   spec.license       = "MIT"
 
   # # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
